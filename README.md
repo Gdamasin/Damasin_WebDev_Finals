@@ -12,7 +12,7 @@
             </div>
         </div>
         <div>
-            <a href="https://classroom.google.com/u/1/c/MTIxODUxMTA4MjYx/a/MTI2NzI2ODY0MTMx/details">Sitemap</a>
+            <a href="https://github.com/Gdamasin/Damasin_WebDev_Finals/blob/main/Sitemap_Damasin.png">Sitemap</a><br>
         <a href="https://github.com/Gdamasin/Damasin_WebDev_Finals/blob/main/Damasin_Wireframe.pdf">Wireframe</a>
         <h3>The tools I used in my web app is plain code using sublime text 3, I never relied on copying codes online<br>
         I only use my knowledge and what I have learned, I don't wanna show a very good web app just to show off<br>
