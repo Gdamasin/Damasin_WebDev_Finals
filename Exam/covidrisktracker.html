@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Covid 19 Risk Tracker</title>
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+</head>
+<body>
+<div class="top">
+    <h1 class="apptitle">COVID 19 Risk Tracker Map</h1>
+    <div class="profile">
+        <h1 class="profName">Giuseppe Adams Damasin</h1>
+        <img class="profPic" src="assets/myPic.jpg">
+    </div>
+</div>
+<div class="verticalmenu">
+    <ul class="list1">
+        <li class="vert"><a href="#">About The Company</a></li>
+        <li class="vert"><a href="#">Global Tools</a></li>
+    </ul>
+</div>
+<div class="topnav">
+    <button class="tablinks" onclick="openCity(event, 'riskMap')" id="defaultOpen">Risk Map</button>
+    <button class="tablinks" onclick="openCity(event, 'lowriskPlaces')">Low Risk Places</button>
+    <button class="tablinks" onclick="openCity(event, 'highriskPlaces')">High Risk Places</button>
+    <button class="tablinks" onclick="openCity(event, 'safestPaths')">Safest Paths</button>
+    </div>
+    <div id="riskMap" class="tabcontent">
+    <img src="assets/samplemap.jpg">
+    </div>
+    <div id="lowriskPlaces" class="tabcontent">
+    <img src="assets/samplemap2.jpg">
+    </div>
+    <div id="highriskPlaces" class="tabcontent">
+    <img src="assets/samplemap3.jpg">
+    </div>
+    <div id="safestPaths" class="tabcontent">
+    <img src="assets/samplemap4.jpg">
+    </div>
+    <script src="js/script.js"></script>
+</body>
+</html>
